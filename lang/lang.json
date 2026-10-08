@@ -1,0 +1,1714 @@
+
+
+
+
+{
+     "a1_de" : "Willkommen bei ProjectAd",
+
+     " a1_en": "Welcome to ProjectAd",
+
+      "a1_fr":"Bienvenue chez ProjectAd" ,
+
+        "LOGIN_ de":"Anmelden" ,
+
+        "LOGIN_ en":"Sign in" ,
+
+        "LOGIN_ fr":"Connexion" ,
+
+
+
+        "LOGIN2_ de":"Ohne Konto Fortfahren" ,
+
+        "LOGIN2_ en":"Continue without registration" ,
+
+        "LOGIN2_ fr":"Continuer en tant qu’invité" ,
+
+
+
+      "LOBT1 de":"Mit Google anmelden" ,
+
+
+
+      "LOBT2 de":"Mit Email anmelden" ,
+
+
+
+      "LOBT3 de":"Mit Telefonnummer anmelden" ,
+
+
+
+      "LOBT4 de":"Mit Facebook anmelden" ,
+
+
+
+      "LOBT1 fr":"Se connecter avec Google"  ,
+
+
+
+      "LOBT2 fr":"Se connecter avec Email" ,
+
+
+
+      "LOBT3 fr":"Se connecter avec le numéro de téléphone" ,
+
+
+
+      "LOBT4 fr":"Se connecter avec Facebook" ,
+
+
+
+      "LOBT1 en":"Sign in with google" ,
+
+
+
+      "LOBT2 en":"Sign in with email" ,
+
+      "LOBT3 en":"Sign in with phone number" ,
+
+
+
+      "LOBT6 en":"Finish" ,
+
+      "LOBT6 de":"Fertig" ,
+
+      "LOBT6 fr":"Terminé" ,
+
+
+
+      "LOBT7 en":"Username" ,
+
+      "LOBT7 de":"Benutzername" ,
+
+      "LOBT7 fr":"Nom utilisateur" ,
+
+
+
+      "LOBT8 de":"Name" ,
+
+      "LOBT8 en":"Name" ,
+
+      "LOBT8 fr":"Nom" ,
+
+
+
+      "LOBT9 de":"Der Name und Benutzername dürfen nicht länger als 25 Zeichen sein" ,
+
+      "LOBT9 en":"The name and the username can't be longer than 25 characters" ,
+
+      "LOBT9 fr":"Le nom et le nom d’utilisateur ne sont pas autorisé d’avoir plus de 25 lettres" ,
+
+
+
+      "LOBT10 de":"Der Name und Benutzername müssen länger als ein Zeichen sein" ,
+
+      "LOBT10 en":"The name and username must be longer than one character" ,
+
+      "LOBT10 fr":"Le nom et le nom d’utilisateur doivent plus long qu’une lettre" ,
+
+
+
+      "LOBT11 en":"This username already exists" ,
+
+      "LOBT11 de":"Dieser Benutzername existiert bereits" ,
+
+      "LOBT11 fr":"Le nom d’utilisateur est déjà enregistré" ,
+
+
+
+      "LOBT12 de":"Es dürfen keine Sonderzeichen oder Leerzeichen vorkommen" ,
+
+      "LOBT12 en":"There cannot be any special characters or spaces" ,
+
+      "LOBT12 fr":"C’est interdit d’utilise des caractères spéciaux ou des espaces" ,
+
+
+
+      "LOBT13 de":"Es darf kein Unterstrich am Ende stehen" ,
+
+      "LOBT13 en":"There can't be a underscore at the end" ,
+
+      "LOBT13 fr": "C’est interdit d’utilise un soulignement à la fin" ,
+
+
+
+      "LOBT14 de":"Es dürfen keine Unterstriche nebeneinander stehen" ,
+
+      "LOBT14 en":"There can't be an underscore next to an underscore" ,
+
+      "LOBT14 fr":"On ne peut pas utiliser deux soulignement un à un" ,
+
+
+
+      "LOBT4 en":"Sign in with facebook" ,
+
+
+
+      "LOBT5 de":"Bist du sicher? Beim erneuten Drücken verlierst du dein neues Konto" ,
+
+
+
+      "LOBT5 en":"Are you sure? When pressed again you will lose your new account" ,
+
+
+
+      "LOBT5 fr":"Tu es sûr? Si tu presses encore une fois, tu vas perdre ton nouveau compte" ,
+
+
+
+      "ESI1 de":"Melde dich an oder registriere dich mit deiner Emailadresse" ,
+
+
+
+      "ESI1 en":"Sign in or register yourself with your email address" ,
+
+
+
+      "ESI1 fr":"Connecter ou enregistrer avec ton compte d’Email" ,
+
+
+
+      "ESI2 de":"Deine Emailadressse" ,
+
+
+
+      "ESI2 en":"Your email address" ,
+
+
+
+      "ESI2 fr":"Ton adresse email" ,
+
+
+
+      "ESI3 de":"Dein Passwort(länger als 4 Zeichen)" ,
+
+
+
+      "ESI3 en":"Your password(longer than 4 characters)" ,
+
+
+
+      "ESI3 fr":"Ton mot de passe(plus de 4 lettres)" ,
+
+
+
+      "ESI4 de":"Anmelden oder Registrieren" ,
+
+
+
+      "ESI4 en":"Sign in or register" ,
+
+
+
+      "ESI4 fr":"Connecter ou créer un compte" ,
+
+
+
+      "ESI5 en":"Forgot password?" ,
+
+      "ESI5 de":"Passwort vergessen?" ,
+
+      "ESI5 fr":"Mot de passe oublié?" ,
+
+
+
+      "TOAST1 de":"Etwas ist schief gelaufen" ,
+
+
+
+      "TOAST1 en":"Something went wrong" ,
+
+
+
+      "TOAST1 fr":"Quelque chose a mal tourné" ,
+
+
+
+      "TOAST2 de":"Emailadresse wurde falsch formatiert" ,
+
+      "TOAST2 en":"Email address was wrong formatted" ,
+
+      "TOAST2 fr":"L’adresse email est faux" ,
+
+
+
+      "TOAST3 de":"Passwort muss länger als 6 Zeichen sein" ,
+
+      "TOAST3 en":"Password must be longer than 6 characters" ,
+
+
+
+      "TOAST4 en":"Please try later again" ,
+
+      "TOAST4 de":"Bitte versuche es später erneut" ,
+
+      "TOAST4 fr":"Veuillez réessayer plus tard" ,
+
+
+
+      "TOAST5 en":"Wrong Password." ,
+
+      "TOAST5 de":"Falsches Passwort." ,
+
+      "TOAST5 fr":"Mot de passe incorrect." ,
+
+
+
+      "PSI1 de":"Melde dich an oder registriere dich mit deiner Telefonnummer" ,
+
+      "PSI1 en":"Sing in or register yourself with your phone number" ,
+
+      "PSI1 fr":"Connecter ou enregistrer avec ton numéro de téléphone" ,
+
+      "PSI2 de":"Deine Telefonnummer" ,
+
+      "PSI2 en":"Your phone number" ,
+
+      "PSI2 fr":"Ton numéro de téléphone" ,
+
+      "PSI3 de":"Gib den Code ein, den wir dir geschickt haben, um dich anzumelden" ,
+
+      "PSI3 en":"Enter the code, which we've send to you to sign in" ,
+
+      "PSI3 fr":"Tu as reçu un code! Tape le code pour finir l’inscription" ,
+
+      "PSI7 de":"Gib den Code ein, den wir dir geschickt haben, um deine Telefonnummer zu bestätigen. Falls du nicht eingeladen wurdest kannst du jetzt auf \"Abbrechen\" drücken" ,
+
+      "PSI7 en":"Enter the code, which we've send to you to verify your phone number. If you wasn't invited, you can now tap on \"Cancel\"" ,
+
+      "PSI7 fr":"Tape le code que tu as reçu pour vérifier ton numéro de téléphone. Si tu n’as pas reçu le code tu peut taper sur \"Cancel\"" ,
+
+      "PSI4 de":"Weiter" ,
+
+      "PSI4 en":"Next" ,
+
+      "PSI4 fr":"Procéder" ,
+
+      "PSI5 de":"Code eingeben" ,
+
+      "PSI5 en":"Enter code" ,
+
+      "PSI5 fr":"Tape le code" ,
+
+      "PSI6 de":"Fehlgeschlagen" ,
+
+      "PSI6 en":"Failed" ,
+
+      "PSI6 fr":"Echoué" ,
+
+
+
+      "s24_ de":"Dieses Bild kann nicht genutzt werden" ,
+
+      "s24_ en":"This photo can't be used" ,
+
+      "s24_ fr":"On ne peut pas utiliser cette image" ,
+
+
+
+      "DIA1 de":"Wir haben dir eine Email gesendet, mit der du dein Passwort zurücksetzten kannst" ,
+
+      "DIA1 en":"We have sent you an email, that allows you to reset your password" ,
+
+      "DIA1 fr":"Nous avons envoyé un email avec quelle tu peut réinitialiser ton mot de passe" ,
+
+
+
+      "TOAST6 en":"There's no account with this email address" ,
+
+      "TOAST6 de":"Es gibt kein Konto mit dieser Emailadresse" ,
+
+      "TOAST6 fr":"Il n’y a pas un compte avec cet adresse email" ,
+
+
+
+      "NO en":"no" ,
+
+      "NO de":"nein" ,
+
+      "NO fr":"non" ,
+
+      "YES de":"ja" ,
+
+      "YES en":"yes" ,
+
+      "YES fr":"oui" ,
+
+
+
+      "MA1 en":"Click to get a new Quote!" ,
+
+      "MA1 de":"Tippe um ein neues Zitat zu erhalten" ,
+
+      "MA1 fr":"Appuye pour une nouvelle citation" ,
+
+
+
+      "TITLE de":"ProjectAd" ,
+
+      "TITLE en":"ProjectAd" ,
+
+      "TITLE fr":"ProjectAd" ,
+
+
+
+      "SSSS de":"Wische hoch!" ,
+
+      "SSSS en":"Swipe up!" ,
+
+      "SSSS fr":"Balayer vers le haut!" ,
+
+
+
+      "SSSE de":"Willkommen bei ProjectAd" ,
+
+      "SSSE en":"Welcome to ProjectAd" ,
+
+      "SSS fr":"Bienvenue chez ProjectAd" ,
+
+
+
+      "INN en":"No internet connection" ,
+
+      "INN de":"Keine Internetverbindung" ,
+
+      "INN fr":"Vérifiez la connexion internet" ,
+
+  "SLS de":"Erinnere mich" ,
+  "SLS en":"Remind me" ,
+  "SLS fr":"Rappelez-moi" ,
+
+
+      "ABA en":"Do you want to continue anonymously?\n Without an account you cannot buy products of the store" ,
+
+      "ABA de":"Willst du anonym fortfahren?\n Ohne ein Konto kannst du keine Produkte im Shop erwerben" ,
+
+      "ABA fr":"Est-ce que tu veux continuer anonymement?\n Tu ne peux pas acheter des produits sans un compte" ,
+
+
+
+      "BAB en":"Cancel" ,
+
+      "BAB de":"Abbrechen" ,
+
+      "BAB fr":"Annuler" ,
+
+
+
+      "BAB2 en":"Continue" ,
+
+      "BAB2 de":"Fortfahren" ,
+
+      "BAB2 fr":"Continuer" ,
+
+
+
+      "PLO en":"Erneut versuchen" ,
+
+      "PLO de":"Try again" ,
+
+      "PlO fr":"Reessayer" ,
+
+
+
+      "STORE_ de":"Willkommen im Shop! Hier kannst du deine QuotePoints in echtes Geld oder in andere tolle Produkte umwandeln!",
+
+            "STORE2_ de":"SHOP","STORE3_ de":"Zurück","STORE4_ de":"Informationen über den Shop","STORE5_ de":"Warum tun wir das? \n Wir dachten, dass wir euch für das aktive Benutzen unserer App etwaszurückgeben sollten. Darum kannst du in dieser App echtes Geld verdienen!\n Habe Spaß beim Lösen der Zitate und verdiene jeden Tag ein paar QuotePoints.\n","STORE6_ de":"Was sind QuotePoints? \n In ProjectAd gibt es eine eigene Währung, diese trägt den Namen QuotePoints. Durch QuotePoints kann man im Shop verschiedene Produkte kaufen. \n Außerdem kannst du, falls du beim Lösen eines Zitates ein Problem hast, für QuotePoints Joker kaufen. Danach bekommst du von uns Hilfe bei dem Zitat.\n","STORE7_ de":"Was bringen QuotePoints?\n Die Grundidee hinter der App war, dass jeder für das schauen der Werbung belohnt werden sollte. Nun gab es ein Problem, da in den AGBs unseres Partners festgelegt ist, dass eine Belohnung für das Schauen einer Werbung nicht belohnt werden darf. Deshalb haben wir uns das Spiel mit den Zitaten einfallen lassen. QuotePoints repräsentieren dir das Guthaben, das du durch das Lösen der Zitate verdient hast.\n","STORE8_ de":
+
+            "Wie verdient man QuotePoints?\n Man kann QuotePoints auf verschiedenen Wegen verdienen. Durch das Lösen von Zitaten bekommst QuotePoints. Ein weiterer Weg ist, uns auf Instagram zu folgen. (Dies funktioniert nur einmal).",
+
+            "STORE9_ de":"Dein ProjectAd-Team",
+
+       "STORE_ en":"Welcome to our store! Here you can change your QuotePoints into real money or into other great products!",
+
+       "STORE2_ en":"STORE","STORE3_ en":"Back","STORE4_ en":"Information about the shop","STORE5_ en":"Why are we doing this? \n We thought we should give every active user of our app a special reward and be thankful for everything.\n That's the reason why you can earn real money with our app!\n Have fun by solving the quotes and earn every day some QuotePoints.\n","STORE6_ en":"What are QuotePoints? \n In our App, we decided to make a currency with the name QuotePoints. You can buy many products in our shop with this currency. Another advantage is that you can buy with QuotePoints Jokers while you are solving a Quote. After you bought a Joker you are going to get some help from us.\n","STORE7_ en":"What can you do with QuotePoints? \n The basic idea behind the app was that everyone should be rewarded for looking an advertisement. Now, there was a problem, as our partner`s terms and conditions statement says that a reward for watching an advertisement can not be rewarded. That`s the reason for coming up with the quotes game. QuotePoints represent the balance you earned by solving quote.\n",
+
+       "STORE8_ en":"How can you earn QuotePoints?\n You can earn QuotePoints in different ways. By solving quotes you are getting QuotePoints. Another way is to follow us on Instagram (This only works once).",
+
+       "STORE9_ en":"Your ProjectAd-Team",
+
+
+
+       "STORE_ fr":"Bienvenue dans le shop! Ici on a la possibilité de convertir les QuotePoints dans l’argent ou dans les produits!",
+
+       "STORE2_ fr":"SHOP","STORE3_ fr":"Annuler","STORE4_ fr":"Information sur le shop","STORE5_ fr":"La raison pour notre motivation! \n Nous avons pensé que les utilisateurs méritent une contre-valeur pour la utilisation. C’est la raison pour laquelle nous avons décidé de implementer la possibilité de gagner l’argent dans l’application! Tu peux gagner chaque jour beaucoup de QuotePoints et nous espérons que tu as beaucoup de plaisir avec notre application.\n", "STORE6_ fr":"Qu’est-ce que sont QuotePoints? \n Dans ProjectAd il y a une devise qui s’appelle QuotePoints. On peut acheter avec QuotePoints divers produits dans notre shop. \n  Si tu ne sais pas une solution pour une citation, tu peux aussi acheter les jokers qui t’aide avec les citations! \n", "STORE7_ fr":"Pourquoi nous avons décidé d’utiliser une devise? \n L’idée fondamentale pour l’application a été que chaque personne gagne d’argent pour regarder les pubs. Mais il y a eu des problèmes avec des conditions générales de notre partenaires, parce que l’entreprise en question a interdit notre projet majeur. C’est la raison pour laquelle il y a le petit jeux avec les citations. Avec QuotePoints tu peux voir combien de point tu as déjà collecté.\n",
+
+       "STORE8_ fr":"Comment on peut gagner les QuotePoints?\n Il y a différentes possibilités pour gagner les QuotePoints. Principalement on peut gagner les QuotePoints avec notre jeux de citations. Une autre possibilité est de suivez-nous en Instagram.",
+
+       "STORE9_ fr":"Ton team de ProjectAd",
+
+       "MMM1en":"learn more...","MMM2en":"swipe up...",
+
+               "MMM1de":"mehr erfahren...","MMM2de":"swipe nach oben...",
+
+              "MMM1fr":"apprends plus..","MMM2fr":"Balayer vers le haut..",
+
+              "DDD en":"We are sorry" ,
+
+              "DDD de":"Es tut uns leid" ,
+
+              "DDD fr":"Pardon!" ,
+
+              "GGG en":"At this moment you can't buy our products, because we are still in the beta phase. \n We promise you, that after the beta phase you can buy these products, if you have enough QuotePoints." ,
+
+              "GGG de":"Momentan kannst du diese Produkte nicht kaufen, da wir uns noch in der BETA-Phase befinden. \n Wir versicheren dir, dass du nach der BETA-Phase diese Produkte kaufen kannst, wenn du genügend QuotePoints hast." ,
+              "GGG fr":"En ce moment tu ne peux pas acheter quelque chose, parce que nous somme dans la phase-bêta. \n Si tu as assez de QuotePoints tu peux acheter des produits après nous avons publié l’application finalement." ,
+
+
+
+
+
+              "PO1 en":"Member since " ,
+
+              "PO1 de":"Mitglied seit " ,
+
+              "PO1 fr":"Membre depuis " ,
+
+               "_s_1de":"Gelöste Zitate","_s_2de":"Benutze Joker","_s_3de":"Joker pro Zitat",
+
+               "_s_1en":"Solved quotes","_s_2en":"Used Jokers","_s_3en":"Jokers per quote" ,
+
+               "_s_1fr":"Citations dissous","_s_2fr":"Jokers utilisé","_s_3fr":"Jokers par citation",
+
+              "saas de":"Profil bearbeiten" ,
+
+              "saas en":"Edit your profile" ,
+
+              "saas fr":"Modifier mon profil" ,
+
+              "askPermission_ de":"Wir benötigen deine Telefonnummer, um dich mit deinen Kontaken zu vernetzen.\nDeine Telefonnummer ist bei uns sicher!" ,
+
+              "askPermission_ en":"We need your phone number to connect you with your contacts.\nYour phone number is safe with us!" ,
+
+              "askPermission_ fr":"Nous avons besoin de ton numéro téléphone pour la connexion avec tes contacts.\n Ton numéro téléphone est en sécurité chez nous!" ,
+
+              "perm_true_ de":"Zustimmen" ,
+
+              "perm_true_ en":"Accept" ,
+
+              "perm_true_ fr":"Accepter" ,
+
+              "perm_false_ de":"Ablehnen" ,
+
+              "perm_false_ en":"Deny" ,
+
+              "perm_false_ fr":"Refuser" ,
+
+
+
+              "info_ de":"Du bist noch nicht angemeldet!" ,
+
+              "info_ en":"You aren't signed in yet!" ,
+
+              "info_ fr":"Tu n’es pas encore inscrit!" ,
+
+
+
+              "info2_ de":"Wenn du dich mit einem anderem Konto anmeldest, verfallen deine jetzigen Daten" ,
+
+              "info2_ fr":"Si tu t’inscrire avec un autre compte, tes informations actuelles vont expirer" ,
+
+              "nee_ de":"Stattdessen registrieren" ,
+
+              "nee_ fr":"En lieu et place enregistrer" ,
+
+
+
+              "info2_ en":"If you sign in with another account, your current data will expire" ,
+
+              "nee_ en":"Register instead" ,
+
+
+
+              "DF_ en":"Cancel registration" ,
+
+              "DF_ de":"Anmeldung abbrechen" ,
+
+              "DF_ fr":"Abandonner la connexion" ,
+
+              "retry_ de":"Bestätigungscode erneut schicken" ,
+
+              "retry_ en":"Resend verification code" ,
+
+              "retry_ fr":"Envoyer le code de vérification à nouveau" ,
+
+              "ch_ de":"Telefonnummer ändern" ,
+
+              "ch_ en":"Change phone number" ,
+
+              "ch_ fr":"Change le numéro de téléphone" ,
+
+
+
+              "mng2_ de":"Freunde finden" ,
+
+              "mng2_ en":"Find friends" ,
+
+              "mng2_ fr":"Trouve tes amies" ,
+
+
+
+              "mng2_en":"Connect with your contacts" ,
+
+              "mng2_de":"Mit Kontakten verbinden" ,
+
+              "mng2_fr":"Connecter avec tes contacts" ,
+
+
+
+              "s_x_ de":"Ohne deine Telefonnummer erhält die Person, die dich eingeladen hat, keine QuotePoints." ,
+
+              "s_x_ en":"Without your phone number, the person, who invited you, won't get any QuotePoints." ,
+
+              "s_x_ fr":"Sans ton numéro de téléphone, la personne qui t’a invité, ne vont pas recevoir des QuotePoints." ,
+
+
+
+              "mng2_why_ de":"Wir brauchen deine Telefonnummer, damit deine Freunde dich anfragen können. Wir werden deine Telefonnummer nicht für andere Zwecke verwenden. Deine Daten sind bei uns sicher" ,
+
+              "mng2_why_ en":"We need your phone number, so that your friends can send you a request. We won't use your phone number for any other purpose. Your data is safe with us" ,
+
+              "mng2_why_ fr":"Nous avons besoin de ton numéro de téléphone parce que tes amies veulent envoyer des demandes d’ajout." ,
+
+
+
+              "recycle_ en":"invite" ,
+
+              "recycle_ de":"einladen" ,
+
+              "recycle_ fr":"inviter" ,
+
+              "recycle2_ en":"Become friends" ,
+
+              "recycle2_ de":"Freunde werden" ,
+
+              "recycle2_ fr":"suivre" ,
+
+
+              "recycle3_ en":"End friendship" ,
+
+              "recycle3_ de":"Freundschaft beenden" ,
+
+              "recycle3_ fr":"Se désabonner" ,
+
+
+
+              "share1_ de":"Heute ist dein Glückstag! \uD83C\uDF89 \nLade ProjectAd herunter und erhalte Geld für das Lösen von Zitaten.\uD83D\uDCB8\uD83D\uDCB8\uD83D\uDCB8 \nKlicke hier: https://projectad.de" ,
+
+              "share1_ en":"Today is your lucky day! \uD83C\uDF89 \nDownload ProjectAd and get paid for solving quotes.\uD83D\uDCB8\uD83D\uDCB8\uD83D\uDCB8\nClick here: https://projectad.de" ,
+
+              "share1_ fr":"Aujourd’hui c’est ton jour de chance! \uD83C\uDF89 \nTélécharge ProjectAd et gagner d’argent pour completer des citations. \uD83D\uDCB8\uD83D\uDCB8\uD83D\uDCB8\n Clique ici: https://projectad.de" ,
+
+              "share2_ de":"ProjectAd - Einladung" ,
+
+              "share2_ en":"ProjectAd - Invite" ,
+
+              "share2_ fr":"ProjectAd - Invitation" ,
+
+              "share3_ de":"Lade deine Freunde ein" ,
+
+              "share3_ en":"Invite your friends" ,
+
+              "share3_ fr":"Invite tes amies" ,
+
+              "share4_ de":"Letzter Schritt" ,
+
+              "share4_ en":"Last step" ,
+
+              "share4_ fr":"Dernière étape" ,
+
+              "share5_ de":"Gib den Code ein, den dir dein/e Freund/in zusammen mit dem Link geschickt hat" ,
+
+              "share5_ en":"Enter the code, which your friend sent you along with the link" ,
+
+              "share5_ fr":"Tape le code qui ton ami a envoyé avec le lien" ,
+
+              "s_ de":"Ich wurde nicht eingeladen" ,
+
+              "s_ en":"I wasn't invited" ,
+
+              "s_ fr":"J’ai pas reçu une invitation" ,
+
+              "s2_ de":"Bitte gib deine Telefonnummer ein. Falls du nicht eingeladen wurdest, kannst du jetzt auf \"Abbrechen\" drücken" ,
+
+              "s2_ en":"Please enter your phone number. If you wasn't invited, you can now tap on \"Cancel\"" ,
+
+              "s2_ fr":"Est-ce que tu peux taper ton numéro de téléphone s’il te plaît. Si tu n’as pas reçu une invitation, tu peux clique sur \"Annuler\" " ,
+
+              "s3_ en":"New photo" ,
+
+              "s3_ de":"Neues Foto" ,
+
+              "s3_ fr":"Nouvelle photo" ,
+
+              "s4_ de":"Foto löschen" ,
+
+              "s4_ en":"Delete photo" ,
+
+              "s4_ fr":"Supprime la photo actuelle" ,
+
+              "s5_ de":"Angemeldet als" ,
+
+              "s5_ en":"signed in as" ,
+
+              "s5_ fr":"Enregistré comme" ,
+
+              "s6_ de":"Deine Bewertung" ,
+
+              "s6_ en":"Your rating" ,
+
+              "s6_ fr":"Ta évaluation" ,
+
+              "s7_ de":"ist uns wichtig" ,
+
+              "s7_ en":"is important for us" ,
+
+              "s7_ fr":"est très important pour nous" ,
+
+              "s8_ de":"Bitte bewerte ProjectAd" ,
+
+              "s8_ en":"Please rate ProjectAd" ,
+
+              "s8_ fr":"Evaluer s’il te plaît ProjectAd" ,
+
+              "s9_ de":"Bitte notiere deine Verbesserungsvorschläge" ,
+
+              "s9_ en":"Please note your suggestions" ,
+
+              "s9_ fr":"Note tes améliorations proposées s’il te plaît" ,
+
+              "s10_de":"Senden" ,
+
+              "s10_ en":"Send" ,
+
+              "s10_ fr":"Envoyer" ,
+
+              "s11_ de":"Alles ist perfekt" ,
+
+              "s11_ en":"Everything is perfect" ,
+
+              "s11_ fr":"Tous est parfait" ,
+
+              "s12_ de":"Verbesserungsvorschläge" ,
+
+              "s12_ en":"Suggestions" ,
+
+              "s12_ fr":"Améliorations proposées" ,
+
+
+
+
+              "s14_ de":"Profilbild" ,
+
+              "s14_ en":"Profile Photo" ,
+
+              "s14_ fr":"Photo de profil" ,
+
+              "s15_ de":"Farbe ändern" ,
+
+              "s15_ en":"Change Color" ,
+
+              "s15_ fr":"Change le couleur" ,
+
+              "s16_ de":"Bild löschen" ,
+
+              "s16_ en":"Delete photo" ,
+
+              "s16_ fr":"Supprime la photo actuelle" ,
+
+              "s17_ de":"Neues Bild auswählen" ,
+
+              "s17_ en":"Choose new photo" ,
+
+              "s17_ fr":"Modifier la photo de profil" ,
+
+              "s18_ de":"Speichern" ,
+
+              "s18_ en":"Save" ,
+
+              "s18_ fr":"Sauvegarder" ,
+
+              "s19_ de":"Du darfst \"0\" nicht verwenden" ,
+
+              "s19_ en":"You aren't allowed to use \"0\"" ,
+
+              "s19_ fr":"Tu ne peux pas utiliser \"0\"" ,
+
+              "s20_ de":"Du darfst keine Schimpfwörter verwenden \uD83D\uDE21" ,
+
+              "s20_ en":"You aren't allowed to use curse words \uD83D\uDE21" ,
+
+              "s20_ fr":"Tu ne peux pas utiliser le langage grossier \uD83D\uDE21" ,
+
+              "s21_ de":"Foto aufnehmen" ,
+
+              "s21_ en":"Take photo" ,
+
+              "s21_ fr":"Prendre une photo" ,
+
+              "s22_ de":"Aus Bibliothek auswählen" ,
+
+              "s22_ en":"Choose from library" ,
+
+              "s22_ fr":"Choisir dans la bibliothèque" ,
+
+              "s23_ de":"Wähle eine neue Farbe" ,
+
+              "s23_ en":"Choose a new color" ,
+
+              "s23_ fr":"Prendre une nouvelle couleur" ,
+
+              "s25_ de":"Benutzername ändern" ,
+
+              "s25_ en":"Edit username" ,
+
+              "s25_ fr":"Edite le nom d’utilisateur" ,
+
+              "s26_ de":"Name ändern" ,
+
+              "s26_ en":"Edit name" ,
+
+              "s26_ fr":"Edite le nom" ,
+
+              "s27_ de":"Bestätigungscode senden" ,
+
+              "s27_ en":"Send verification code" ,
+
+              "s27_ fr":"Envoie le code de vérification" ,
+
+              "s28_ de":"Bestätigungscode wurde gesendet" ,
+
+              "s28_ en":"Verification code was sent" ,
+
+              "s28_ fr":"Le code de vérification est envoyé" ,
+
+              "s29_ de":"Ein Benutzer mit dieser Email existiert bereits" ,
+
+              "s29_ en":"An user with this email already exists" ,
+
+              "s29_ fr":"Il y a déjà un utilisateur avec cette email" ,
+
+              "s30_ de":"Du kannst deine Email nicht ändern, weil du dich mit deinem  # angemeldet hast" ,
+
+              "s30_ en":"You cannot change your email, because you are signed in with your  #" ,
+
+              "s30_ fr":"Tu ne peux pas changer ton email, parce que tu es enregistré avec  #" ,
+
+              "s31_ de":"Google-Konto" ,
+
+              "s31_ en":"Google account" ,
+
+              "s31_ fr":"Google-compte" ,
+
+              "s32_ de":"Facebook-Konto" ,
+
+              "s32_ en":"Facebook account" ,
+
+              "s32_ fr":"Facebook compte" ,
+
+              "s33_ de":"Email ändern" ,
+
+              "s33_ en":"Change email" ,
+
+              "s33_ fr":"Change l’email" ,
+
+              "s34_ de":"Email bearbeiten" ,
+
+              "s34_ en":"Edit email" ,
+
+              "s34_ fr":"Edite ton email" ,
+
+              "s35_ de":"Bitte gebe dein Passwort ein, um uns zu zeigen, dass du es bist" ,
+
+              "s35_ en":"Please enter your password to show us, that it's you" ,
+
+              "s35_ fr":"Tape ton mot de passe pour verifier que c’est ton compte" ,
+
+              "s36_ de":"Passwort" ,
+
+              "s36_ en":"Password" ,
+
+              "s36_ fr":"Mot de passe" ,
+
+              "s37_ de":"Telefonnummer ändern" ,
+
+              "s37_ en":"Change phone number" ,
+
+              "s37_ fr":"Change ton numéro de téléphone" ,
+
+              "s38_ de":"Du musst dich mit deiner alten Telefonnummer erneut anmelden, damit du sie danach ändern kannst" ,
+
+              "s38_ en":"You have to sign in with your old phone number, so that you can change it than" ,
+
+              "s38_ fr":"Tu dois utiliser ton vielle numéro de téléphone encore une fois. Après cela tu peux tape ton nouvelle numéro de téléphone" ,
+
+              "s39_ de":"Der Code wurde erneut verschickt" ,
+
+              "s39_ en":"The code was resent" ,
+
+              "s39_ fr":"Le code est envoyer à nouveau" ,
+
+              "s40_ de":"Neue Telefonnummer" ,
+
+              "s40_ en":"New phone number" ,
+
+              "s40_ fr":"Nouvelle numéro de téléphone" ,
+
+              "s41_ de":"Die Zeit ist abgelaufen" ,
+
+              "s41_ en":"The time is over" ,
+
+              "s41_ fr":"Le temps est expiré" ,
+
+              "s42_ de":"Password ändern" ,
+
+              "s42_ en":"Change password" ,
+
+              "s42_ fr":"Change le mot de passe" ,
+
+              "s43_ de":"Neues Passwort" ,
+
+              "s43_ en":"New password" ,
+
+              "s43_ fr":"Nouveau mot de passe" ,
+
+              "s44_ de":"Passwort zurücksetzen" ,
+
+              "s44_ en":"Reset password" ,
+
+              "s44_ fr":"Réinitialise ton mot de passe" ,
+
+              "s45_ de":"Dein altes Passwort" ,
+
+              "s45_ en":"Your old password" ,
+
+              "s45_ fr":"Ton mot de passe actuel" ,
+
+              "s46_ de":"Dein neues Password" ,
+
+              "s46_ en":"Your new password" ,
+
+              "s46_ fr":"Ton nouveau mot de passe" ,
+
+              "s47_ en":"Send email" ,
+
+              "s47_ de":"Email senden" ,
+
+              "s47_ fr":"Envoyé un email" ,
+
+              "s48_ de":"Passwort-Reset-Email wurde gesendet" ,
+
+              "s48_ en":"Password-reset-email was sent" ,
+
+              "s48_ fr":"L’email pour ton nouveau mot de passe est envoyé" ,
+
+              "s49_ de":"Annehmen" ,
+
+              "s49_ en":"Accept" ,
+
+              "s49_ fr":"Accepter" ,
+
+              "s50_ de":"Vorschläge" ,
+
+              "s50_ en":"Suggestions" ,
+
+              "s50_ fr":"Propositions" ,
+
+              "s51_ de":"Anfragen" ,
+
+              "s51_ en":"Requests" ,
+
+              "s51_ fr":"Demandes" ,
+
+      "s52_ de":"Tag" ,
+
+      "s52_ en":"Day" ,
+
+      "s52_ fr":"Jour" ,
+
+      "s53_ de":"Woche" ,
+
+      "s53_ en":"Week" ,
+
+      "s53_ fr":"Semaine" ,
+
+      "s54_ de":"Monat" ,
+
+      "s54_ en":"Month" ,
+
+      "s54_ fr":"Moins" ,
+
+      "s55_ de":"Gesamt" ,
+
+      "s55_ en":"Overall" ,
+
+      "s55_ fr":"Complet" ,
+
+      "s56_ de":"Freunde" ,
+
+      "s56_ en":"Friends" ,
+
+      "s56_ fr":"Amis" ,
+
+      "s57_ de":"Freund" ,
+
+      "s57_ en":"Friend" ,
+
+      "s57_ fr":"Ami" ,
+
+      "s58_ de":"Anfragen" ,
+
+      "s58_ en":"Requests" ,
+
+      "s58_ fr":"Nouvelle demande" ,
+
+      "s59_ de":"Angefragt" ,
+
+      "s59_ en":"Requested" ,
+
+      "s59_ fr":"Demandé" ,
+
+      "s60_ de":"Das ist zu schnell" ,
+
+      "s60_ en":"You are too fast" ,
+
+      "s60_ fr":"C’est trop rapide" ,
+
+      "s61_ de":"Aktualisieren" ,
+
+      "s61_ en":"Refreshing" ,
+
+      "s61_ fr":"Actualiser" ,
+
+      "s62_ de":"Aus Kontakten" ,
+
+      "s62_ en":"From contacts" ,
+
+      "s62_ fr":"A partir de contacts" ,
+
+      "s63_ de":"Ablehnen" ,
+
+      "s63_ en":"Decline" ,
+
+      "s63_ fr":"Rejeter" ,
+
+      "s64_ de":"von dir" ,
+
+      "s64_ en":"of you" ,
+
+      "s64_ fr":"de toi" ,
+
+      "s65_ de":"von" ,
+
+      "s65_ en":"of" ,
+
+      "s65_ fr":"de" ,
+
+      "s66_ de":"Du musst mit der Person befreundet sein, um die Analyse sehen zu können" ,
+
+      "s66_ en":"You have to be friends with this person to see the analysis" ,
+
+      "s66_ fr":"Il faut être ami avec la personne pour voir l’analyse" ,
+
+      "s67_ de":"Freundschaft beenden" ,
+
+      "s67_ en":"End friendship" ,
+
+      "s67_ fr":"Mettre fin à l’amitié" ,
+
+      "s68_ de":"Freunde werden" ,
+
+      "s68_ en":"Become friends" ,
+
+      "s68_ fr":"Devenir amis" ,
+
+      "s69_ de":"Diese Farbe hat einen zu kleinen Kontrast zu unseren Farben. Bitte wähle eine andere Farbe" ,
+
+      "s69_ en":"The contrast of this color is way too small to our colors. Please choose another color" ,
+
+      "s69_ fr":"La couleur a trop peu de contraste avec nos couleurs. Choisir une autre couleur, s’il vous plaît." ,
+
+      "s70_ de":"Das bist du" ,
+
+      "s70_ en":"This is you" ,
+
+      "s70_ fr":"C’est toi" ,
+
+      "s71_ de":"Einstellungen" ,
+
+      "s71_ en":"Settings" ,
+
+      "s71_ fr":"Réglages" ,
+
+      "s72_ de":"Einstellen" ,
+
+      "s72_ en":"Manage" ,
+
+      "s72_ fr":"Régler" ,
+
+      "s73_ de":"Datenschutz" ,
+
+      "s73_ en":"Privacy" ,
+
+      "s73_ fr":"Protection des données" ,
+
+      "s74_ de":"Profil" ,
+
+      "s74_ en":"Profile" ,
+
+      "s74_ fr":"Profil" ,
+
+      "s75_ de":"Sprache" ,
+
+      "s75_ en":"Language" ,
+
+      "s75_ fr":"Langue" ,
+
+      "s76_ de":"Website" ,
+
+      "s76_ en":"Website" ,
+
+      "s76_ fr":"Site web" ,
+
+      "s77_ de":"Allgemeine Geschäftsbedingungen" ,
+
+      "s77_ en":"Terms of use" ,
+
+      "s77_ fr":"Conditions générales" ,
+
+      "s78_ de":"Information" ,
+
+      "s78_ en":"Information" ,
+
+      "s78_ fr":"Information" ,
+
+      "s79_ de":"Anzeigeformat" ,
+
+      "s79_ en":"Display format" ,
+
+      "s79_ fr":"Format de présentation" ,
+
+      "s80_ de":"Code-Format" ,
+
+      "s80_ en":"Code-Format" ,
+
+      "s80_ fr":"Code-Format" ,
+
+      "s81_ de":"Schreibmachinen-Format" ,
+
+      "s81_ en":"Typewriter-Format" ,
+
+      "s81_ fr":"Format de machine à écrire" ,
+
+      "s82_ de":"Soft-Format" ,
+
+      "s82_ en":"Soft-Format" ,
+
+      "s82_ fr":"Soft-Format" ,
+
+      "s83_ de":"2020, Version 1.01" ,
+
+      "s83_ en":"2020, version 1.01" ,
+
+      "s83_ fr":"2020, version 1.01" ,
+
+      "s84_ en":"loading..." ,
+
+      "s84_ de":"lädt..." ,
+
+      "s84_ fr":"charges..." ,
+
+      "s85_ de":"Benutzer Schlüssel" ,
+
+      "s85_ en":"User key" ,
+
+      "s85_ fr":"Clé d’utilisateur" ,
+
+      "s86_ de":"Erstellt am" ,
+
+      "s86_ en":"Created on" ,
+
+      "s86_ fr":"Créé le" ,
+
+      "s87_ de":"Abmelden" ,
+
+      "s87_ en":"Sign out" ,
+
+      "s87_ fr":"Déconnecter" ,
+
+      "s88_ de":"Bestätige die Abmeldung" ,
+
+      "s88_ en":"Confirm the sign out" ,
+
+      "s88_ fr":"Confirme la déconnexion" ,
+
+      "s89_ de":"Bestätigen" ,
+
+      "s89_ en":"Confirm" ,
+
+      "s89_ fr":"Confirme" ,
+
+      "s90_ de":"Deutsch" ,
+
+      "s90_ en":"English" ,
+
+      "s90_ fr":"Français" ,
+
+      "s91_ de":"ProjectAd muss neu gestartet werden, um die Sprache zu ändern.\nZum Bestätigen klicken" ,
+
+      "s91_ en":"ProjectAd have to restart to change the language.\nClick to confirm" ,
+
+      "s91_ fr":"Il faut relancer ProjectAd pour changer la langue. \nCliquez pour confirmer." ,
+
+      "s92_ de":"Sein oder nicht sein, dass ist hier die Frage" ,
+
+      "s92_ en":"To be or not to be, that is the question" ,
+
+      "s92_ fr":"Etre ou ne pas être, telle est la question qui se pose ici." ,
+
+      "s93_ de":"Wer darf dein Profilbild sehen?" ,
+
+      "s93_ en":"Who is allowed to see your profile picture" ,
+
+      "s93_ fr":"Qui peut voir votre photo de profil?" ,
+
+      "s94_ de":"Wer darf deine Aktivitäten, also wann du Zitate gelöst hast, sehen?" ,
+
+      "s94_ en":"Who is allowed to see your activity, which shows when you solved quotes?" ,
+
+      "s94_ fr":"Qui est autorisé à voir vos activités, c’est-à-dire lorsque vous avez résolu des devis?" ,
+
+      "s95_ de":"Jeder" ,
+
+      "s95_ en":"Everyone" ,
+
+      "s95_ fr":"Tout le monde" ,
+
+      "s96_ de":"Nur Freunde" ,
+
+      "s96_ en":"Only friends" ,
+
+      "s96_ fr":"Seulement des amis" ,
+
+      "s97_ de":"Niemand" ,
+
+      "s97_ en":"Nobody" ,
+
+      "s97_ fr":"Personne" ,
+
+      "s98_ de":"Wir legen selbstverständlich sehr viel Wert auf die Sicherheit von Ihren Daten. Wir verkaufen die Daten nicht an Drittanbieter und verschlüsseln jeden Datensatz, den wir erhalten." ,
+
+      "s98_ en":"Of course we attach great importance to the security of your data. We do not sell the data to third parties and encrypt every data record we receive." ,
+
+      "s98_ fr":"Bien entendu, nous attachons une grande importance à la sécurité de vos données. Nous ne vendons pas les données à des tiers et nous cryptons chaque enregistrement de données que nous recevons." ,
+
+      "s99_ de":"ProjectAd ist eine App für alle, die leicht Geld im Internet verdienen wollen! Mit unserer App bekommst du für das Lösen von zufällig ausgewählten Zitaten mit einem fehlenden Wort QuotePoints, was unsere Währung ist. Mit den gesammelten Punkten kannst du dann in dem Shop verschiedene Produkte kaufen und unter anderem die Punkte in echtes PayPal-Geld eintauschen. Zudem kann man seine Statistiken mit anderen vergleichen und feststellen, wer der Beste ist! Wir finanzieren uns durch Werbung und durch Kooperationen mit anderen Firmen, die ihr Produkt in der App anbieten." ,
+
+      "s99_ en":"ProjectAd is an app for everyone who wants to make easy money on the Internet! With our app you get for solving randomly selected quotes with a missing word QuotePoints, which is our currency. With the collected points you can then buy different products in the shop and among other things exchange the points for real PayPal money. You can also compare your statistics with others and see who is the best! We finance ourselves through advertising and through cooperations with other companies that offer their products in the app." ,
+
+      "s99_ fr":"ProjectAd est une application pour tous ceux qui veulent gagner facilement de l'argent sur Internet ! Notre application vous permet de résoudre des citations choisies au hasard avec un mot manquant QuotePoints, qui est notre devise. Avec les points collectés, vous pouvez ensuite acheter différents produits dans le magasin et, entre autres, échanger les points contre de l'argent réel PayPal. Vous pouvez également comparer vos statistiques avec d'autres et voir qui est le meilleur ! Nous nous finançons par la publicité et par des coopérations avec d'autres entreprises qui proposent leurs produits dans l'application." ,
+
+      "s100_ de":"Kaufvorgang gestartet" ,
+
+      "s100_ en":"Shopping process started" ,
+
+      "s100_ fr":"Le processus d’achat a commencé" ,
+
+      "s101_ de":"Jetzt kaufen?" ,
+
+      "s101_ en":"Buy now?" ,
+
+      "s101_ fr":"Acheter maintenant?" ,
+
+      "s102_ de":"Wandle  # in ? um" ,
+
+      "s102_ en":"Transform  # to ?" ,
+
+      "s102_ fr":"Convertir  # en ?" ,
+
+      "s103_ de":"Wir werden dir das Produkt in den nächsten Tagen über Paypal schicken. Dazu benötigen wir deine Paypal-Daten" ,
+
+      "s103_ en":"We will send you the product with PayPal in the next days. For that we need your PayPal-data" ,
+
+      "s103_ fr":"Nous enverrons le produit via PayPal dans les prochains jours. Pour cela, nous avons besoin de vos donnés PayPal" ,
+
+      "s103_single_ de":"Wir werden dir den Gutschein Code in den nächsten Tagen zuschicken. Dazu benötigen wir deine E-Mail-Adresse" ,
+      "s103_single_ en":"We will send you the gift card code in the next days. For that we need your email" ,
+      "s103_single_ fr":"Nous vous enverrons le code de bon dans les prochains jours. Pour cela, nous avons besoin de votre adresse d'email" ,
+
+      "s104_ de":"Paypal Email oder Telefonnummer" ,
+
+      "s104_ en":"Paypal email or mobile number" ,
+
+      "s104_ fr":"Courriel de PayPal ou ton numéro de téléphone" ,
+
+      "s104_single_ de":"Deine Email" ,
+      "s104_single_ en":"Your email" ,
+      "s104_single_ fr":"Ton courriel" ,
+
+      "s105_ de":"Bist du sicher, dass deine Eingabe korrekt ist?" ,
+
+      "s105_ en":"Are you sure, that your input is correct?" ,
+
+      "s105_ fr":"Etes-vous sûr que votre entrée est correcte?" ,
+
+      "s106_ de":"Wenn du auf Bestätigen drückst, wird der Preis des Produktes auf dein angegebenes PayPal Konto überwiesen." ,
+
+      "s106_ en":"By clicking on confirm the price of the product will be transferred to your entered PayPal account " ,
+
+      "s106_ fr":"Lorsque vous cliquez sur Confirme, le prix du produit sera transféré sur votre compte PayPal" ,
+
+      "s107_ de":"Glückwunsch!" ,
+
+      "s107_ en":"Congrats!" ,
+
+      "s107_ fr":"Félicitations!" ,
+
+      "s108_ de":"Du hast  # erfolgreich beworben" ,
+
+      "s108_ en":"You bought  # successfully" ,
+
+      "s108_ fr":"Vous avez acheté avec succès!" ,
+
+      "s109_ de":"Zitate" ,
+
+      "s109_ en":"Quotes" ,
+
+      "s109_ fr":"Citations" ,
+
+      "s110_ de":"QuotePoints" ,
+
+      "s110_ en":"QuotePoints" ,
+
+      "s110_ fr":"QuotePoints" ,
+
+      "s111_ de":"Shop" ,
+
+      "s111_ en":"Shop" ,
+
+      "s111_ fr":"Shop" ,
+
+      "s112_ de":"Cloud" ,
+
+      "s112_ en":"Cloud" ,
+
+      "s112_ fr":"Cloud" ,
+
+      "s113_ de":"\nLöse zufällig ausgewählte Zitate und erhalte dafür Punkte" ,
+
+      "s113_ en":"\nSolve randomly choosen quotes to receive points" ,
+
+      "s113_ fr":"\nRésoudre des citations choisies au hasard et obtenir des points pour celles-ci" ,
+
+      "s114_ de":"\nQuotePoint sind die Währung von ProjectAd" ,
+
+      "s114_ en":"\nQuotePoints are the currency of ProjectAd" ,
+
+      "s114_ fr":"\nLes QuotePoints sont la devise de ProjectAd" ,
+
+      "s115_ de":"\nIm Shop kannst du QuotePoints in echtes Geld oder andere tolle Produkte umwandeln" ,
+
+      "s115_ en":"\nIn the shop you can transfer QuotePoints into real money or other great products" ,
+
+      "s115_ fr":"\nDans le magasin, vous pouvez convertir les QuotePoints en argent réel ou en d’autres produits intéressant" ,
+
+      "s116_ de":"\nProjectAd ist Cloud basiert. Bei uns sind deine Daten sicher und du kannst von verschiedenen Geräten auf deinen Account zugreifen." ,
+
+      "s116_ en":"\nProjectAd is cloud based. Your data is safe with us and you can access your account from various devices." ,
+
+      "s116_ fr":"\nProjectAd est basé sur le Cloud. Chez nous, vos données sont en sécurité et vous pouvez accéder à votre compte à partir de différents appareils." ,
+
+       "days_1de":"Mo","days_2de":"Di","days_3de":"Mi","days_4de":"Do","days_5de":"Fr","days_6de":"Sa","days_7de":"So",
+       "days_1en":"Mon","days_2en":"Tue","days_3en":"Wed","days_4en":"Thu","days_5en":"Fri","days_6en":"Sat","days_7en":"Sun",
+       "days_1fr":"lu","days_2fr":"ma","days_3fr":"me","days_4fr":"je","days_5fr":"ve","days_6fr":"sa","days_7fr":"di",
+
+      "s117_ de":"10.000 verschiedene Zitate" ,
+      "s117_ en":"10.000 different quotes" ,
+      "s117_ fr":"10.000 quotes différents" ,
+
+      "s118_ de":"Noch nicht verfügbar" ,
+      "s118_ en":"Not yet available" ,
+      "s118_ fr":"Pas encore disponible" ,
+
+      "s119_ de":"Diese Email wird bereits von einem Nicht-Facebook-Konto genutzt" ,
+      "s119_ en":"This is email is already used by a non-facebook-account" ,
+      "s119_ fr":"Cet e-mail est déjà utilisé par un compte non-Facebook" ,
+
+      "s120_ de":"Bist du Unternehmer?" ,
+      "s120_ en":"Are you an entrepreneur" ,
+      "s120_ fr":"Êtes-vous un entrepreneur" ,
+
+      "s121_ de":"Hast du Interesse, deine Angebote oder Produkte in unserem Shop zu plazieren?" ,
+      "s121_ en":"Are you interested in placing your offers or products in our shop?" ,
+      "s121_ fr":"Êtes-vous intéressé à placer vos offres ou produits dans notre boutique?" ,
+
+      "s122_ de":"Schreibe uns hier!" ,
+      "s122_ fr":"Écrivez-nous ici!" ,
+      "s122_ en":"Write to us here!" ,
+
+      "s123_ de":"Der Name deiner Firma" ,
+      "s123_ en":"Your company name" ,
+      "s123_ fr":"Le nom de votre entreprise" ,
+
+      "s124_ de":"Dein Angebot" ,
+      "s124_ fr":"Ton offre" ,
+      "s124_ en":"Your offer" ,
+
+      "s125_ de":"Dein Angebot senden" ,
+      "s125_ en":"Send your offer" ,
+      "s125_ fr":"Envoyez votre offre" ,
+
+      "s126_ de":"Dein Angebot ist zu lang" ,
+      "s126_ en":"Your offer is too long" ,
+      "s126_ fr":"Votre offre est trop longue" ,
+
+      "s127_ de":"Dein Angebot ist zu kurz" ,
+      "s127_ en":"Your offer is too short" ,
+      "s127_ fr":"Votre offre est trop courte" ,
+
+      "s128_ de":"Dein Firmenname ist zu lang" ,
+      "s128_ en":"Your compnay name is too long" ,
+      "s128_ fr":"Le nom de vorte entreprise est trop longue" ,
+
+      "s129_ de":"Dein Firmenname ist zu kurz" ,
+      "s129_ en":"Your compnay name is too short" ,
+      "s129_ fr":"le nom de vorte entreprise est trop courte" ,
+
+      "s130_ de":"Folge uns bei Instagram um Punkte zu bekommen" ,
+
+      "s130_ en":"Follow us at Instagram to get points" ,
+
+      "s130_ fr":"Suivez-nous à Instagram pour obtenir des points" ,
+
+
+
+      "s131_ de":"Bitte gebe deinen Instagram-Benutzernamen ein, damit wir überprüfen können, ob du uns auch folgst. Das geht nur, wenn du noch kein Abonnent bist" ,
+
+      "s131_ en":"Please enter your Instagram username so we can check that you are following us. This action requires, that you aren't following us yet" ,
+
+      "s131_ fr":"Veuillez entrer votre nom d'utilisateur Instagram afin que nous puissions vérifier que vous nous suivez. Cette action nécessite, que vous ne nous suiviez pas encore" ,
+
+      "s132_ de":"Dein Instagram Benutzername" ,
+      "s132_ en":"Your Instagram username" ,
+      "s132_ fr":"Ton non d'utilisation d'Instagram" ,
+
+      "s133_ de":"Das ist kein echter Instagram-Benutzername!" ,
+
+      "s133_ en":"This isn't a real username!" ,
+
+      "s133_ fr":"Ce n'est pas un vrai nom d'utilisateur!" ,
+
+
+
+      "s134_ de":"Belohnung für Instagram-Follow" ,
+
+      "s134_ en":"Reward for instagram-follow" ,
+
+      "s134_ fr":"Récompense pour ton Instagram-Follow" ,
+
+
+
+      "s135_ de":"Du hast für das Abonnieren von @officialprojectad 10 QuotePoints erhalten" ,
+
+      "s135_ fr":"You got 10 QuotePoints for following @officialprojectad" ,
+
+      "s135_ en":"Vous avez reçu 10 QuotePoints pour vous abonner à @officialprojectad" ,
+
+
+
+      "s136_ de":"Oops!" ,
+
+      "s136_ en":"Oops!" ,
+
+      "s136_ fr":"Ooops!" ,
+
+
+
+      "s137_ de":"Du folgst uns nicht mehr. Wir haben jene Belohnung wieder von deinem Konto abgezogen. \n Folge uns (@officialprojectad) erneut und erhalte, wie gewohnt 10 QuotePoints!" ,
+
+      "s137_ en":"You don't follow us any more, so we removed the reward. \n Follow us @officialprojectad again and receive 10 QuotePoints! " ,
+
+      "s137_ fr":"Vous ne nous suivez plus. Nous avons de nouveau retiré l'argent de la récompense de votre compte. \nSuivez-nous (@officialprojectad) à nouveau et obtenez 10 QuotePoints comme d'habitude !" ,
+
+
+
+      "s138_ de":"Wenn du uns nicht mehr folgst, werden wir dir deine QuotePoints wieder abziehen." ,
+
+      "s138_ en":"If you stop following us, we will take away your quota points again.",
+
+      "s139_de":"Mit Apple anmelden",
+      "s139_en":"Sign in with Apple",
+      "s139_fr":"...",
+      "s140_de":"Registrieren",
+      "s140_en":"Register",
+      "s140_fr":"En registrer",
+      "s141_de":"Passwort zu kurz",
+      "s141_en":"Password is too short",
+      "s141_fr":"Mot de pass est faux",
+      "s142_de":"Passwort zu lang",
+      "s142_en":"Password is too long",
+      "s142_fr":"Mot de pass est trop long",
+      "s143_de":"Bitte versuche es später erneut",
+      "s143_en":"Please try it later again",
+      "s143_fr":"Veuillez réessayer plus tard",
+      "s144_de":"Anmelden",
+      "s144_en":"Sign in",
+      "s144_fr":"Connecter",
+      "s145_de":"Registrieren",
+      "s145_en":"Register",
+      "s145_fr":"En registrer",
+      "s146_de":"Nutzer wurde nicht gefunden",
+      "s146_en":"User was not found",
+      "s146_fr":"L'utilisateur n'a pas été trouvé",
+      "s147_en":"Forgot password" ,
+
+      "s147_de":"Passwort vergessen" ,
+
+      "s147_fr":"Mot de passe oublié" ,
+      "s148_en":"New quote" ,
+
+      "s148_de":"Neues Zitat" ,
+
+      "s148_fr":"Nouvelle citation",
+      "s149_en":"A new quote is ready to be solved" ,
+      "s149_de":"Ein neues Zitat ist bereit gelöst zu werden" ,
+      "s149_fr":"Il y a une nouvelle citation" ,
+      "s150_de":"Kaufbestätigung von " ,
+      "s150_en":"Purchase confirmation of " ,
+      "s150_fr":"Confirmation d'achat de " ,
+      "s151_de":"Kaufen für " ,
+      "s151_en":"Buy for " ,
+      "s151_fr":"Acheter pour " ,
+      "s152_de":"Nachricht" ,
+      "s152_en":"Message" ,
+      "s152_fr":"Message",
+      "s153_de":"Farben Schema",
+      "s153_fr":"Couleurs",
+      "s153_en":"Color scheme",
+      "s154_de":"Kontoeinstellungen",
+      "s154_fr":"Paramètres du compte",
+      "s154_en":"Account settings",
+      
+      "s155_de":"Du kannst diese Aktion pro Nutzer nur für einen Account durchführen",
+      "s155_en":"You can only run through this action once per user",
+      "s155_fr":"Tu peux seulement réaliser l'action une fois par utilisateur",
+
+      "s156_en":"You are already following officialprojectad on Instagram",
+      "s156_de":"Du folgst bereits officialprojectad auf Instagram",
+      "s156_fr":"Tu as déja abonné officialprojectad en Instagram",
+
+      "s157_en":"You received 10 QC though following @officialprojectad. Good job!",
+      "s157_de":"Du hast 10 QC durch das Abbonieren von @officialprojectad erhalten. Gut gemacht!",
+      "s157_fr":"Tu as reçu 10 QC en suivant notre page instagram. Bravo!",
+      "s158_en":"Reward for following @officialprojectad",
+      "s158_de":"Belohnung für Abonnement von @officialprojectad",
+      "s158_fr":"Récompense pour l'abonnement à officialprojectad",
+      "s159_de":"Willkommen bei ProjectAd",
+      "s159_en":"Welcome to ProjectAd",
+      "s159_fr":"Bienvenue à ProjectAd",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      "s160_de":" Zitate gelöst am ",
+      "s160_en":" Quotes solved at ",
+      "s160_fr": " Citations résolues le ",
+
+      "s161_de":" Zitate gelöst um ",
+      "s161_en":" Quotes solved at ",
+      "s161_fr":" Citations résolues le ",
+
+      "s162_en":"Create Username",
+      "s162_de":"Benutzername Erstellen",
+      "s162_fr":"Créer nom d'utilisateur",
+
+      "s163_de":"Finde einen Benutzernamen für dein neues Konto. Du kannst diesen später noch ändern.",
+      "s163_en":"Pick a username for you new account. You can always change it later on.",
+      "s163_fr":"Trouvez un nom d'utilisateur pour votre nouveau compte. Vous pouvez le changer plus tard.",
+
+      "s164_de":"Benutzername ist nicht verfügbar",
+      "s164_en":"Username is not available",
+      "s164_fr":"Nom d'utilisateur n'est pas disponible",
+
+      "s165_de":"Neuen Benutzername eingeben",
+      "s165_en":"Enter your new username",
+      "s165_fr":"Entrez votre nouveau nom d'utilisateur",
+
+      "s166_de":"Als annonymer Nutzer kannst du kein Profil einrichten.\nGehe zu Einstellungen > Benutzer-Einstellungen > Konto überschreiben",
+      "s166_en":"You cannot set up your profile as an annonymous user.\nGoto Settings > Account Settings > Migrate your account",
+      "s166_fr":"Vous ne pouvez pas configurer votre profil en tant qu'utilisateur anonyme.\nRéglages > Paramètres du compte > Migrer votre compte",
+
+      "s167_en":"Enter Name",
+      "s167_de":"Name Eingeben",
+      "s167_fr":"Entrez nom",
+
+      "s168_de":"Gebe deinen vollstängigen Name ein oder deinen Nickname\n ",
+      "s168_en":"Enter your complete name of your nickname\n ",
+      "s168_fr":"Entrez votre nom complet ou votre surnom",
+
+      "s169_de":"Fertigstellen",
+      "s169_en":"Finish",
+      "s169_fr":"Terminer",
+
+      "s170_de":"Deinen Namen eingeben",
+      "s170_en":"Enter your new username",
+      "s170_fr":"Entrez votre nom",
+
+      "s171_de":"Keine Tags",
+      "s171_en":"No Tags",
+      "s171_fr":"Pas d'Étiquettes",
+
+      "s172_de":"Zitate\nGelöst",
+      "s172_en":"Quotes\nSolved",
+      "s172_fr":"Citations\nRésolu",
+      "s173_de":"Jokers\nBenutzt",
+      "s173_en":"Jokers\nUsed",
+      "s173_fr":"Jokers\nUtilisé",
+
+      "s174_de":"Jokers Pro Zitat",
+      "s174_en":"Jokers Per Quote",
+      "s174_fr":"Jokers Par Citations",
+      "s175_de":"Foto aus Kamera",
+      "s175_en":"Photo from Camera",
+      "s175_fr":"Photo de l'appareil photo",
+      "s176_de":"Foto aus Galerie",
+      "s176_en":"Photo from Gallery",
+      "s176_fr":"Photo de la galerie",
+      "s177_de":"Tippe zum ändern",
+      "s177_en":"Tap to change",
+      "s177_fr":"Tapez pour changer",
+      "s178_de":"Bio",
+      "s178_en":"Bio",
+      "s178_fr":"Bio",
+      "s179_de":"Tags",
+      "s179_en":"Tags",
+      "s179_fr":"Étiquettes",
+      "s180_de":"Standart-Tags",
+      "s180_en":"Standard-Tags",
+      "s180_fr":"Étiquette standard",
+      "s181_de":"Spezial-Tags",
+      "s181_en":"Special-Tags",
+      "s181_fr":"Étiquettes spéciales",
+      "s182_de":"Unbedingter Tag",
+      "s182_en":"Unconditional Tag",
+      "s182_fr":"Étiquette inconditionnel",
+      "s183_de":"Bedingung:",
+      "s183_en":"Condition:",
+      "s183_fr":"Condition:",
+      "s184_de":"Habe mindestens x QuotePoints",
+      "s184_en":"Have more than x QuotePoints",
+      "s184_fr":"Avoir plus de x QuotePoints",
+      "s185_de":"Habe ein Produkt in unserem Shop gekauft",
+      "s185_en":"Bought a product at our shop",
+      "s185_fr":"Acheté un produit dans notre shop",
+      "s186_de":"Habe mehr als 333 Jokers genutzt",
+      "s186_en":"Used more than 333 jokers",
+      "s186_fr":"Utilisé plus de 333 jokers",
+      "s187_de":"Habe mehr als 3333 QuotePoints verdient",
+      "s187_en":"Earned more than 3333 QuotePoints",
+      "s187_fr":"Avoir gagné plus de 3333 QuotePoints",
+      "s188_de":"Seit dem 22/7/21 dabei",
+      "s188_en":"Since 22/7/21 on board",
+      "s188_fr":"Depuis le 22/7/21 à bord",
+      "s189_de":"Mehr als 30 Zitate diese Woche gelöst",
+      "s189_en":"Solved more than 30 Quotes this week",
+      "s189_fr":"Plus de 30 citations résolues cette semaine",
+      "s190_de":"Dieser Tag wird automatisch hinzugefügt",
+      "s190_en":"This tag will be added atomatically",
+      "s190_fr":"Cette balise est ajoutée automatiquement",
+      "s191_de":"Hinzufügen",
+      "s191_en":"Add",
+      "s191_fr":"Ajouter",
+      "s192_de":"Entfernen",
+      "s192_en":"Remove",
+      "s192_fr":"Retirer",
+      "s193_de":"Foto löschen",
+      "s193_en":"Delete Photo",
+      "s193_fr":"Supprimer la photo",
+      "s194_de":"Benutzername Ändern",
+      "s194_en":"Change Username",
+      "s194_fr":"Changer de nom d'utilisateur",
+      "s195_de":"Name Ändern",
+      "s195_en":"Change Name",
+      "s195_fr":"Changement de nom",
+      "s196_de":"Biografie Ändern",
+      "s196_en":"Change Biography",
+      "s196_fr":"Changer la biographie",
+      "s197_de":"Finde Freunde",
+      "s197_en":"Find Friends",
+      "s197_fr":"Trouver Amis",
+      "s198_de":"Deine Kontakte",
+      "s198_en":"Your Contacts",
+      "s198_fr":"",
+      "s199_de":"Suche Benutzer",
+      "s199_en":"Search User",
+      "s199_fr":"",
+      "s200_de":"Finde Freunde",
+      "s200_en":"Find Friends",
+      "s200_fr":"Trouver Amis",
+      "s201_en":"In 8 hours, you will get the next quote. Or just watch an ad!",
+      "s201_de":"In 8 Stunden kommt das nächste Zitat. Oder schaue Werbung, um ein neues Zitat zu erhalten!",
+      "s201_fr":"Dans 8 heures, il y'aura une nouvelle citation. Ou regarde une publicité!",
+      "s202_en":"Additional Information",
+      "s202_de":"Weitere Informationen",
+      "s202_fr":"Informations complémentaires",
+      "s203_en":"Not enough QuotePoints! ",
+      "s203_de":"Noch nicht genügend QuotePoints!",
+      "s203_fr":"Pas assez de QuotePoints !",
+      "s204_en":"Uploading Picture...",
+      "s204_de":"Bild Hochladen...",
+      "s204_fr":"Télécharger l'image...",
+      "s205_en":"Account is lost",
+      "s205_de":"Account ist nicht erreichbar",
+      "s205_fr":"Le compte n'est pas accessible",
+      "s206_en":"You don't have any requests",
+      "s206_de":"Du hast keine Anfragen",
+      "s206_fr":"Tu n'as pas de demandes",
+      "s207_en":"You don't have any friends yet!",
+      "s207_de":"Du hast noch keine Freunde!",
+      "s207_fr":"Tu n'as pas encore d'amis !",
+      "s208_en":"Following",
+      "s208_de":"Abboniert",
+      "s208_fr":"Suivant",
+      "s209_en":"Follow",
+      "s209_de":"Folgen",
+      "s209_fr":"Suivre",
+      "s210_en":"Enter a username",
+      "s210_de":"Gebe einen Benutzernamen ein",
+      "s210_fr":"Entrez un nom d'utilisateur",
+      "s211_en":"Delete Cache",
+      "s211_de":"Cache Löschen",
+      "s211_fr":"Supprimer le cache"
+
+      
+
+      
+    
+
+
+      
+
+
+      
+
+
+
+}

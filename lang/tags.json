@@ -1,0 +1,76 @@
+{
+    "A" : {
+        "de":"Champion",
+        "en":"Champion",
+        "fr":"",
+        
+        "c":"1200,9223372036854775807"
+    },
+    "B" : {
+        "de":"Neuling",
+        "en":"Starter",
+        "fr":"",
+        "c":"0,29"
+    },
+    "C" : {
+        "de":"Fortgeschritte/r",
+        "en":"Intermediate",
+        "fr":"",
+        "c":"30,199"
+    },
+    "D" : {
+        "de":"Experte/in",
+        "en":"Expert",
+        "fr":"",
+        "c":"200,1199"
+    },
+    "E" : {
+        "de":"Techniker/in",
+        "en":"Tech guy",
+        "fr":""
+    },
+    "F" : {
+        "de":"Sänger/in",
+        "en":"Singer",
+        "fr":""
+    },
+    "G" : {
+        "de":"Spieler/in",
+        "en":"Gamer",
+        "fr":""
+    },
+    "H" : {
+        "de":"Aktivist/in",
+        "en":"Activist",
+        "fr":""
+    },
+    "I" : {
+        "de":"Erdler/in",
+        "en":"Earthler",
+        "fr":""
+    },
+    "J" : {
+        "de":"Sportler/in",
+        "en":"Sportive",
+        "fr":""
+    },
+    "K" : {
+        "c":"-a, -u:#00b020, -d:500, -c:A   , -dec:fill, -k=1",
+        "text":"-💸-"
+    },
+    "L" : {
+        "c":"-a, -u:#e3c100, -d:7777, -c:B, -dec:border, -k=1",
+        "text":"Supreme Member"
+    },
+    "M" : {
+        "c":"-a, -u:#092eb5, -d:800, -c:C, -dec:fill, -k=1",
+        "text":"💎💎💎💎💎"
+    },
+    
+    "N" : {
+        "c":"-a, -u:#00000000, -d:1500, -c:E, -dec:special, -k=0",
+        "text":"🚗/🚚/🚛/🚕/🚙/🚐"
+    }
+
+
+}
